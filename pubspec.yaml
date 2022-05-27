@@ -2,6 +2,7 @@ name: base_text_field
 description: A new Flutter package.
 version: 0.0.1
 homepage: https://github.com/tingfeng12101/base_text_field.git
+publish_to: http://8.129.66.79:8090
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
